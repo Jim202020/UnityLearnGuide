@@ -2,6 +2,7 @@
 
 ## SRP
 1. [Scriptable Render Pipeline Overview](https://blogs.unity3d.com/cn/2018/01/31/srp-overview/)
+2. [ScriptableRenderPipeline(Manual)](https://docs.unity.cn/2019.4/Documentation/Manual/ScriptableRenderPipeline.html)
 
 ## URP
 ### URP Shader
