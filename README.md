@@ -1,6 +1,6 @@
 # UnityLearnGuide
 
-[批处理_GpuInstancing_SRPBatcher](../UnityLearnGuide/docs/批处理_GpuInstancing_SRPBatcher.md)
+[批处理_GpuInstancing_SRPBatcher](docs/批处理_GpuInstancing_SRPBatcher.md)
 
 ## SRP
 1. [Scriptable Render Pipeline Overview](https://blogs.unity3d.com/cn/2018/01/31/srp-overview/)
